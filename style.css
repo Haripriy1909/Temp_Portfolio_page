@@ -158,3 +158,6 @@ button.send{
     margin-top: 1.8rem;
     padding: 0.5rem;
 }
+span.color{
+    color:lightcoral;
+}
